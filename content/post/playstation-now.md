@@ -1,6 +1,6 @@
 +++
 authors = ["Ersan"]
-date = ""
+date = 2020-05-16T21:00:00Z
 excerpt = ""
 hero = "/images/ps-now-768x430.jpg"
 timeToRead = 2
