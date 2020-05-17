@@ -5,7 +5,7 @@ hero: "/images/steam_link.jpg"
 excerpt: ''
 timeToRead: 3
 authors:
-- Thiago Costa
+- Ersan
 
 ---
 Game streaming is a type of [online gaming](https://en.wikipedia.org/wiki/Online_game "Online game") that allows direct and on-demand video [streaming](https://en.wikipedia.org/wiki/Stream_(computing) "Stream (computing)") of games onto computers, consoles, and mobile devices, similar to [video on demand](https://en.wikipedia.org/wiki/Video_on_demand "Video on demand"), through the use of a [thin client](https://en.wikipedia.org/wiki/Thin_client "Thin client"). 
